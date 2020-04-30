@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Div = styled.body `
 background: url(Asset/Img/download.jpg);
-height: 100vh;
+height: 90vh;
 background-size: 100%;
 color: white;
 text-align: center;
@@ -15,7 +15,7 @@ const H = styled.h1 `
 
 `
 const Wap = styled.div `
-padding-top: 10em;
+padding-top: 12em;
 `
 
 class Home extends React.Component {
@@ -23,7 +23,7 @@ class Home extends React.Component {
         return (
             <Div>
                 <Wap>
-                   <P>I AM MADU STANLEY MUNACHISO I AM A</P>
+                   <P>HELLO, I AM MADU STANLEY MUNACHISO, A</P>
                    <H>FRONT-END DEVELOPER</H>
                 </Wap>
             </Div>
