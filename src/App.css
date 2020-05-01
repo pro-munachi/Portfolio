@@ -46,4 +46,5 @@
 .Nav_link:hover {
   background-color: white;
   color: black;
+  text-decoration-line: underline;
 }

@@ -4,7 +4,10 @@ class About extends React.Component {
     render() {
         return (
             <div>
-                <p>About</p>
+                <div>
+                    
+                    <img src='/Asset/Img/image.jpg' alt='' width={'10%'} />
+                </div>
             </div>
         )
     }
