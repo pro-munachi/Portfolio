@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Div = styled.body `
 background: url(Asset/Img/download.jpg);
-height: 90vh;
+height: 100vh;
 background-size: 100%;
 color: white;
 text-align: center;

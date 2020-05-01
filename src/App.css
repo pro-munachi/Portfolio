@@ -46,5 +46,12 @@
 .Nav_link:hover {
   background-color: white;
   color: black;
-  text-decoration-line: underline;
+
+}
+
+.Nav-link {
+  padding-top: 50px;
+  text-decoration: none;
+  color: white;
+  padding: 3em;
 }

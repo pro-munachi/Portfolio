@@ -8,6 +8,7 @@ import Contact from './components/Contact'
 import Experience from './components/Experience'
 import Error from './components/Error'
 import Navigation from './components/Navigation'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
     <Route path='/contact' component={Contact} />
     <Route component={Error} />
     </Switch>
+    <Route path='/' component={Footer} />
     </BrowserRouter>
     </div>
   );
