@@ -8,7 +8,7 @@ export const Div = styled.body `
 background: url(Asset/Img/whit.jpg);
 height: 70vh;
 background-size: 100%;
-color: white;
+color: orange;
 text-align: center;
 `
 export const P = styled.strong `
@@ -54,8 +54,8 @@ padding: 1em 4em;
 color: orange;
 text-align: center;
 box-shadow: 3px 3px 5px 6px #ccc;
-.b {
-    text-align: center;
+p {
+    font-weight: 800;
 }
 `
 
@@ -65,6 +65,9 @@ border-top-right-radius: 5em;
 padding: 1em 2em;
 color: orange;
 box-shadow: 3px 3px 5px 6px #ccc;
+p {
+    font-weight: 800;
+}
 `
 
 export const Black3 = styled.div `
@@ -73,6 +76,9 @@ border-top-right-radius: 5em;
 padding: 1em 2em;
 color: orange;
 box-shadow: 3px 3px 5px 6px #ccc;
+p {
+    font-weight: 800;
+}
 `
 export const Dim2 = styled.div `
 display: flex;
@@ -86,5 +92,6 @@ box-shadow: 1px 1px 2px 3px #ccc;
 `
 export const White3 = styled.div `
 box-shadow: 1px 1px 2px 3px #ccc;
+height: 19em;
 `
 

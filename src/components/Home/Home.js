@@ -28,14 +28,7 @@ class Home extends React.Component {
                        <p>CREATIVITY</p>                   
                    </Black>
                    <White>
-                   <p><Img src='/Asset/Img/75.jpg' alt=''/><br /></p>       
-                   <ul>
-                       <li>MAKING CONNECTIONS</li>
-                       <li>ASKING QUESTIONS</li>
-                       <li>MAKING OBSERVATIONS</li>
-                       <li>NETWORKING</li>
-                       <li>EXPERIMENTING</li>
-                   </ul> 
+                 
                    </White>
                    </div>
 
@@ -44,14 +37,7 @@ class Home extends React.Component {
                        <p>PROBLEM SOLVING</p>
                    </Black2>
                    <White2>
-                   <p className='b'> <Imgs src='/Asset/Img/85.jpg' alt=''/><br/></p>
-                        <ul>
-                            <li>RESEARCHING SKILLS</li>
-                            <li>TEAM WORKING</li>
-                            <li>EMOTIONAL INTELLIGENCE</li>
-                            <li>RISK MANAGEMENT</li>
-                            <li>DECISION MAKING</li>
-                        </ul>
+                   
                    </White2>
                    </div>
 
@@ -60,14 +46,7 @@ class Home extends React.Component {
                        <p>CRITICAL THINKING</p>
                    </Black3>
                    <White3>
-                   <p><Img src='/Asset/Img/80.jpg' alt=''/><br /></p>         
-                        <ul>
-                            <li>RECOGNIZING PATTERNS</li>
-                            <li>SKEPTICISM</li>
-                            <li>JUDGEMENT</li>
-                            <li>INTERPRETATION</li>
-                            <li>DATA ANALYSIS</li>
-                        </ul>
+                       
                     </White3> 
                     </div> 
                   
