@@ -37,21 +37,23 @@
   }
 }
 
-.Nav_link {
-  padding: 25px;
-  text-decoration: none;
-  color: white;
-}
 
-.Nav_link:hover {
-  background-color: white;
-  color: black;
 
-}
+
 
 .Nav-link {
-  padding-top: 50px;
   text-decoration: none;
   color: white;
-  padding: 3em;
+}
+
+.h {
+  animation-name: shine;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shine {
+  0% {color: white}
+  50% {color: white}
+  100% {color: black}
 }
