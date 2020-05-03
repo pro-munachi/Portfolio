@@ -22,7 +22,7 @@ padding: 15px;
 `
 
 export const Riv = styled.div `
-background: orange;
+background: #20b2aa;
 text-align: center;
 `
 export const Hiv = styled.div `

@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Div = styled.nav `
 background: url(/Asset/Img/whit.jpg);
 background-size: 100%;
-color: orange;
+color: #20b2aa;
 display: flex;
 justify-content: space-between;
 height: 20vh;
@@ -18,11 +18,11 @@ margin-bottom: 3em;
 display: flex;
 margin-bottom: 2em;
 .nav {
-    border-bottom: 0.1em solid orange;
+    border-bottom: 0.1em solid #20b2aa;
 }
 `
 export const H2 = styled.h1 `
-color: orange;
+color: #20b2aa;
 font-size: 30px;
 `
 export const P1 = styled.p `
