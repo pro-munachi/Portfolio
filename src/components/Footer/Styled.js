@@ -29,3 +29,7 @@ export const Hiv = styled.div `
 display: flex;
 justify-content: center;
 `
+export const Dive = styled.div `
+background: black;
+color: black;
+`

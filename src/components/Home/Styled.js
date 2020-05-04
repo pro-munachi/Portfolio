@@ -137,14 +137,23 @@ justify-content: space-between;
 export const White = styled.h1 `
 color: #20b2aa;
 margin-left: 2em;
+:hover {
+    text-shadow: 3px 3px #ccc;
+}
 `
 export const White2 = styled.h1 `
 margin-left: 5em;
 color: #20b2aa;
+:hover {
+    text-shadow: 3px 3px #ccc;
+}
 `
 export const White3 = styled.h1 `
 color: #20b2aa;
 margin-left: 6.5em;
+:hover {
+    text-shadow: 3px 3px #ccc;
+}
 `
 //box-shadow: 1px 1px 2px 3px #ccc;
 //box-shadow: 3px 3px 5px 6px #ccc;
