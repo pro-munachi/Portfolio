@@ -14,12 +14,14 @@ margin-top: 0.3em;
 
 `
 export const Ul = styled.ul `
-margin-bottom: 3em;
+margin-bottom: 0em;
 display: flex;
-margin-bottom: 2em;
-.nav {
+list-style-type: none;
+align-items: center;
+.nav~span {
+    width: 75px;
+    position: absolute;
     border-bottom: 0.1em solid #20b2aa;
-    padding-bottom: 2rem;
     z-index: 0;
 }
 `
@@ -27,7 +29,7 @@ export const H2 = styled.h1 `
 color: #20b2aa;
 font-size: 30px;
 `
-export const P1 = styled.p `
+export const P1 = styled.li `
 margin-bottom: 2em;
 .Nav_link {
   padding: 25px;
