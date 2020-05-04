@@ -19,6 +19,7 @@ display: flex;
 margin-bottom: 2em;
 .nav {
     border-bottom: 0.1em solid #20b2aa;
+    line-height: 10%;
 }
 `
 export const H2 = styled.h1 `
