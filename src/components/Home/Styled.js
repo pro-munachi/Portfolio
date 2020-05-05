@@ -34,10 +34,12 @@ justify-content: space-evenly;
 export const Img = styled.img `
 width: 38%;
 border-radius: 7em;
+margin-left: 2em;
 `
 export const Imgs = styled.img `
 width: 40%;
 border-radius: 7em;
+margin-left: 2em;
 `
 export const Dim = styled.div `
 

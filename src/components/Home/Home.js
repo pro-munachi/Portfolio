@@ -29,7 +29,7 @@ class Home extends React.Component {
                        <Imgs src='/Asset/Icon/h.png'/>
                        <p> Madu Stanley Munachiso prides himself in creating quality website for his clients,
                            If you want to contact Munachi for  website development, click on the button
-                           below</p> <br />
+                           below.</p> <br />
                            <NavLink to='/contact' className='Nav-link'><button className='but'>Contact</button></NavLink>                 
                    </Black1>
                    

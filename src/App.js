@@ -6,7 +6,7 @@ import Home from './components/Home/Home'
 import About from './components/About/About'
 import Contact from './components/Contact/Contact'
 import Experience from './components/Experience/Experience'
-import Error from './components/Error/Error'
+import Error from './components/Erroro/Error'
 import Navigation from './components/Navigation/Navigation'
 import Footer from './components/Footer/Footer'
 
