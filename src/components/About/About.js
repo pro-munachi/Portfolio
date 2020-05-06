@@ -18,7 +18,7 @@ class About extends React.Component {
                     </div><br />
                     <div>
                         <p>Madu Stanley Munachiso is a self taught Front-End Developer who lives in Owerri, Imo State, Nigeria. 
-                            He have a Bachelor's degree in Urban and Regional Planning from the Federal University Of Technology
+                            He has a Bachelor's degree in Urban and Regional Planning from the Federal University Of Technology
                             Owerri. He thought that he would end up to be a town planner who  design estates in a studio or 
                             who review development plans in his office. Then he felt the spark that he needed to learn something 
                             else.

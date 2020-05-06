@@ -8,16 +8,16 @@ class Navigation extends React.Component {
     render() {
         return (
             <Div>
-                <Div1>
-                    <H2>MUNACHISO</H2>
-                    <P>Front-End Developer</P>
-                </Div1>
-                <Ul class='menu'>
-               <P1> <NavLink to='/' className='Nav_link' activeClassName='nav'><Img src='/Asset/Icon/Home.png' alt='' /></NavLink><span class="isactive"></span></P1>
-               <P1> <NavLink to='/about' className='Nav_link' activeClassName='nav'><Img src='/Asset/Icon/about.png' alt='' /></NavLink><span class="isactive"></span></P1> 
-               <P1> <NavLink to='/contact' className='Nav_link' activeClassName='nav'><Img src='/Asset/Icon/contact.png' alt='' /></NavLink><span class="isactive"></span></P1>
-               <P1><NavLink to='/experience' className='Nav_link' activeClassName='nav'><Img src='/Asset/Icon/experience.png' alt='' /></NavLink><span class="isactive"></span></P1> 
-                </Ul>
+                <div className='div1'>
+                    <h1>MUNACHISO</h1>
+                    <strong>Front-End Developer</strong>
+                </div>
+                <ul class='menu'>
+               <li> <NavLink to='/' className='Nav_link' activeClassName='nav'><img src='/Asset/Icon/Home.png' alt='' /></NavLink><span class="isactive"></span></li>
+               <li> <NavLink to='/about' className='Nav_link' activeClassName='nav'><img src='/Asset/Icon/about.png' alt='' /></NavLink><span class="isactive"></span></li> 
+               <li> <NavLink to='/contact' className='Nav_link' activeClassName='nav'><img src='/Asset/Icon/contact.png' alt='' /></NavLink><span class="isactive"></span></li>
+               <li><NavLink to='/experience' className='Nav_link' activeClassName='nav'><img src='/Asset/Icon/experience.png' alt='' /></NavLink><span class="isactive"></span></li> 
+                </ul>
             </Div>
         )
     }

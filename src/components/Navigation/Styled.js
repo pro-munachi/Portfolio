@@ -7,13 +7,23 @@ color: #20b2aa;
 display: flex;
 justify-content: space-between;
 height: 20vh;
-`
-export const Div1 = styled.div `
+
+.div1 {
 margin-left: 6em;
 margin-top: 0.3em;
 
-`
-export const Ul = styled.ul `
+h1 {
+color: #20b2aa;
+font-size: 30px;
+}
+
+strong {
+font-size: 16px;
+margin-left: .6em;
+}
+}
+
+ul {
 margin-bottom: 0em;
 display: flex;
 list-style-type: none;
@@ -24,23 +34,21 @@ align-items: center;
     border-bottom: 0.1em solid #20b2aa;
     z-index: 0;
 }
-`
-export const H2 = styled.h1 `
-color: #20b2aa;
-font-size: 30px;
-`
-export const P1 = styled.li `
+li {
 margin-bottom: 2em;
 .Nav_link {
   padding: 25px;
   text-decoration: none;
   display: flex;
 }
-`
-export const Img = styled.img `
+}
+img {
 width: 20%;
+}
+}
 `
-export const P = styled.strong `
-font-size: 16px;
-margin-left: .6em;
-`
+
+
+
+
+
