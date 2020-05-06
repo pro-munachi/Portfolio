@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import {Div, H2, Div1, P, Ul, Img, P1} from './Styled'
+import {Div} from './Styled'
 
 
 
