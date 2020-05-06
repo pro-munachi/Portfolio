@@ -9,9 +9,6 @@ class About extends React.Component {
             <Wrapper>
                 <div className='diw'>
                 <Div> 
-                  {/*  <div>             
-                    <img src='/Asset/Img/image.jpg' alt='' width={'20%'} />
-                  </div> */}
                     <div className='div'>
                         <H1>ABOUT</H1><br />
                     <H1>MADU STANLEY MUNACHISO</H1>
