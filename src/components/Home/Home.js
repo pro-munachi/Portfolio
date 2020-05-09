@@ -23,7 +23,7 @@ class Home extends React.Component {
 
                <Dim1>
                  <Dim2>
-                     <div>
+                  {/* <div>
                          <White>Contact</White>
                    <Black1> 
                        <Imgs src='/Asset/Icon/h.png'/>
@@ -59,7 +59,7 @@ class Home extends React.Component {
                       <NavLink to='/experience' className='Nav-link'> <button className='but'>Experience</button></NavLink>
                    </Black3>
                    
-                    </div> 
+                    </div>*/} 
                   
                 </Dim2>
                </Dim1>
