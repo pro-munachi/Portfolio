@@ -22,7 +22,7 @@ class About extends React.Component {
                         </p>
                         <p>Then he was introduced to web development by his elder brother who is a developer. He just fell in love
                             with programming and he knew that he had found his calling. it brings out the best in him and helps in his
-                            day to day activities. while coding, he has some dependencies which are <a href=''>music (any genre), internet, code editor</a> and
+                            day to day activities. while coding, he has some dependencies which are <a href='/'>music (any genre), internet, code editor</a> and
                             his hobbies are watching Football, surfing the internet, reading, singing. 
                         </p>
                     </div>
