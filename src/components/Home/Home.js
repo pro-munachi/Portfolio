@@ -9,7 +9,7 @@ class Home extends React.Component {
             <Div>
                 <Wap>
                     <Div1>
-                      <P>HI, I AM <a>MADU STANLEY MUNACHISO</a>, A</P>
+                      <P>HI, I AM <a href='/'>MADU STANLEY MUNACHISO</a>, A</P>
                       <H>FRONT-END DEVELOPER</H>
                    </Div1><br /><br /><br />
                { /* <Div2>                     
