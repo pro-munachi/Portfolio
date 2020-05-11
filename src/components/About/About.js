@@ -10,8 +10,8 @@ class About extends React.Component {
                 <div className='diw'>
                 <Div> 
                     <div className='div'>
-                        <H1>ABOUT</H1><br />
-                    <h1>MADU STANLEY MUNACHISO</H1>
+                        <h1>ABOUT</h1><br />
+                    <h1>MADU STANLEY MUNACHISO</h1>
                     </div><br />
                     <div>
                         <p>Madu Stanley Munachiso is a self taught Front-End Developer who lives in Owerri, Imo State, Nigeria. 
