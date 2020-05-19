@@ -21,7 +21,7 @@ class Footer extends React.Component {
                <div><NavLink to='/experience' className='Nav-link'>Experience</NavLink></div>    
                 </div><br />
                 <div className='div'>            
-                <p>Contact Me: +2348165998708</p>
+                <p>Contact Me: 08165998708</p>
                  </div>
                
               
