@@ -17,7 +17,7 @@ class Footer extends React.Component {
               <div className='hiv'>
                 <div> <NavLink to='/' className='Nav-link'>Home</NavLink></div><br />
                <div> <NavLink to='/about' className='Nav-link'>About</NavLink></div><br /> 
-               <div> <NavLink to='/contact' className='Nav-link'>Contact</NavLink></div><br />
+               <div> <NavLink to='/contact' className='Nav-link'>Contacts</NavLink></div><br />
                <div><NavLink to='/experience' className='Nav-link'>Experience</NavLink></div>    
                 </div><br />
                 <div className='div'>            
